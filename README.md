@@ -1,0 +1,1 @@
+# SlavicHunter_MinimalPrototype
